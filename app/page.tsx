@@ -10,8 +10,6 @@ import { FAQSection } from '@/components/faq-section'
 import { FinalCTASection } from '@/components/final-cta-section'
 import { ClosingSection } from '@/components/closing-section'
 import { Footer } from '@/components/footer'
-import { WhatsAppButton } from '@/components/whatsapp-button'
-import { StickyCTAMobile } from '@/components/sticky-cta-mobile'
 
 export default function HomePage() {
   return (
@@ -28,8 +26,6 @@ export default function HomePage() {
       <FinalCTASection />
       <ClosingSection />
       <Footer />
-      <WhatsAppButton />
-      <StickyCTAMobile />
     </main>
   )
 }

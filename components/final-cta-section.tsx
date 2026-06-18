@@ -51,7 +51,7 @@ export function FinalCTASection() {
               </p>
               <div className="overflow-hidden rounded-3xl">
                 <Image
-                  src="/sonrisa.jpg"
+                  src="/sonrisa-hombre.png"
                   alt="diseño de sonrisa"
                   width={1200}
                   height={900}

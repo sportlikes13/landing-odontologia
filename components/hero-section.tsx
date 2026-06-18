@@ -77,7 +77,7 @@ export function HeroSection() {
                 <span className="text-primary">sin dolor</span> ni tratamientos traumáticos
               </h1>
               
-              <p className="text-lg sm:text-xl text-accent-foreground leading-relaxed max-w-xl text-pretty">
+              <p className="text-xl sm:text-xl text-foreground leading-relaxed max-w-xl text-pretty">
                 Con tecnología láser avanzada y atención especializada, puedes detener el avance de la periodontitis, reducir la inflamación y volver a sonreír con confianza desde las primeras citas.
               </p>
             </div>

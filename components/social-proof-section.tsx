@@ -75,10 +75,10 @@ export function SocialProofSection() {
                   <div className="font-heading text-2xl font-bold text-primary-foreground">
                     {stat.value}
                   </div>
-                  <div className="font-semibold text-primary-foreground text-sm">
+                  <div className="font-semibold text-primary-foreground text-lg sm:text-sm">
                     {stat.label}
                   </div>
-                  <p className="text-primary-foreground text-sm mt-4 leading-relaxed">
+                  <p className="text-primary-foreground text-base sm:text-sm mt-4 leading-relaxed">
                 {stat.description}
               </p>
                 </div>
