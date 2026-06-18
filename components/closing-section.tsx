@@ -24,7 +24,7 @@ export function ClosingSection() {
           <div className="flex justify-center">
             <div className="relative">
               <div className="w-20 h-20 rounded-3xl bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center">
-                <Heart className="w-10 h-10 text-primary" />
+                <Heart className="w-10 h-10 text-primary-foreground" />
               </div>
               <div className="absolute -top-1 -right-1 w-6 h-6 rounded-full bg-secondary flex items-center justify-center">
                 <Sparkles className="w-3 h-3 text-white" />

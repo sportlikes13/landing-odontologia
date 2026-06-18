@@ -26,7 +26,7 @@ export function AboutSection() {
             transition={{ duration: 0.6 }}
             className="order-2 lg:order-1 text-center lg:text-center max-w-3xl mx-auto"
           >
-            <span className="inline-flex items-center justify-center px-4 py-1.5 rounded-full bg-primary/10 text-primary text-sm font-medium mb-4">
+            <span className="inline-flex items-center justify-center px-4 py-1.5 rounded-full bg-secondary-foreground/10 text-primary-foreground text-sm font-medium mb-4">
               CONOCE A TU ESPECIALISTA
             </span>
             <h2 className="font-heading text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground text-balance">
@@ -63,7 +63,7 @@ export function AboutSection() {
           >
             <div className="mx-auto w-full max-w-3xl">
               <div className="rounded-[2rem] border border-border bg-muted/20 shadow-sm p-8 text-center">
-                <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10 text-primary">
+                <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-2xl bg-secondary-foreground/10 text-primary-foreground">
                   <Quote className="w-6 h-6" />
                 </div>
                 <p className="text-lg lg:text-xl font-semibold text-foreground leading-8">
